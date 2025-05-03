@@ -8,4 +8,5 @@
 - Mantine (UI компоненты) https://mantine.dev/
 - RTC Query (query библиотека): https://redux.js.org/tutorials/essentials/part-7-rtk-query-basics
 - RsPack (альтернатива webpack): https://rspack.dev/
-- 
+- Biome (альтернатива ESLint): https://biomejs.dev/guides/getting-started/
+- Oxc (альтернатива ESlint с обратной совместимостью): https://oxc.rs/
